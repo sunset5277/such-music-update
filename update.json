@@ -4,5 +4,5 @@
   "force": false,
   "gitee": "https://gitee.com/Sunset_5277/such-music-update/releases/download/v1.1.1/such-music.apk",
   "github": "https://github.com/sunset5277/such-music-update/releases/download/v1.1.1/such-music.apk",
-  "changelog": "Such Music v1.1.1\n\n新功能：\n1. 增加逐字歌词开关\n2. 可设置提前缓存逐字歌词\n3. 新增本地音乐功能\n4. 播放页面可滑动切歌\n5. 播放胶囊可滑动切歌\n6. 当登录用户网易云有免费听歌时长时可以听VIP歌曲\n\n优化：\n1. 无逐字歌词时悬浮歌词显示为灰色\n2. 无歌曲时播放提示偏移\n3. 悬浮歌词的位置重新打开后位置偏移\n4. 搜索页面歌曲显示样式修改\n\nps：更新日志可能有部分遗漏"
+  "changelog": "Such Music v1.2.0\n\n新功能：\n1. 增加逐字歌词开关\n2. 可设置提前缓存逐字歌词\n3. 新增本地音乐功能\n4. 播放页面可滑动切歌\n5. 播放胶囊可滑动切歌\n6. 当登录用户网易云有免费听歌时长时可以听VIP歌曲\n\n优化：\n1. 无逐字歌词时悬浮歌词显示为灰色\n2. 无歌曲时播放提示偏移\n3. 悬浮歌词的位置重新打开后位置偏移\n4. 搜索页面歌曲显示样式修改\n\nps：更新日志可能有部分遗漏"
 }
